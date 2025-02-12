@@ -2,10 +2,11 @@
 Console Chess is written entirely in Java. It currently features: user input handling, move validation, checkmate. Further implementations will include: en passant, castling and maybe even a heuristics based AI opponent.
 
 ## How to run
+(requires java -> https://www.oracle.com/java/technologies/downloads/#jdk23-windows)
 ```
 git clone https://github.com/nejczgank/console_chess.git
 cd console_chess
-javac Main.java
+javac *.java
 java Main.java
 ```
 ## How to play
