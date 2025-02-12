@@ -12,6 +12,7 @@ java Main.java
 - select figure position
 - (may also deselect by retyping the figure position)
 - select figure placement position
+
 ![chessGameplayGiff](https://github.com/user-attachments/assets/4fcb453a-94af-48ff-90b3-83c11786b13d)
 
 # List of current bugs and problems
