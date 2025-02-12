@@ -1,0 +1,9 @@
+List of current bugs and problems:
+
+1. java.lang.ClassCastException: class java.lang.String cannot be cast to class java.util.ArrayList (java.lang.String and java.util.ArrayList are in module java.base of loader 'bootstrap') (OCCURS AT TIMES WHEN INSTIGATING A CHECK -> skips a player move)
+2. java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 8 (OCCURS WITH PAWNS FOR SOME REASON)
+
+1. Chess piece symbols may not render on console
+2. En passant implementation needs rework
+3. Code redundancy (restructuring neccessary)
+4. More comments and documentation
