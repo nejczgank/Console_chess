@@ -16,4 +16,4 @@ java Main.java
 ![chessGameplayGiff](https://github.com/user-attachments/assets/4fcb453a-94af-48ff-90b3-83c11786b13d)
 
 ## List of current bugs and problems
-[Click here](console_chess/list%20of%20bugs%20and%20problems.txt)
+[Click here](list_of_bugs_and_problems)
