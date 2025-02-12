@@ -8,7 +8,7 @@ cd console_chess
 javac Main.java
 java Main.java
 ```
-## How to use
+## How to play
 - select figure position
 - (may also deselect by retyping the exact figure position)
 - select figure placement position
